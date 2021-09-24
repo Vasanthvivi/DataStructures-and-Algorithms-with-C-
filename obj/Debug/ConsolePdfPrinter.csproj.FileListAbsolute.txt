@@ -1,0 +1,7 @@
+E:\.NET Cores\ConsolePdfPrinter\bin\Debug\ConsolePdfPrinter.exe.config
+E:\.NET Cores\ConsolePdfPrinter\bin\Debug\ConsolePdfPrinter.exe
+E:\.NET Cores\ConsolePdfPrinter\bin\Debug\ConsolePdfPrinter.pdb
+E:\.NET Cores\ConsolePdfPrinter\obj\Debug\ConsolePdfPrinter.csproj.CoreCompileInputs.cache
+E:\.NET Cores\ConsolePdfPrinter\obj\Debug\ConsolePdfPrinter.exe
+E:\.NET Cores\ConsolePdfPrinter\obj\Debug\ConsolePdfPrinter.pdb
+E:\.NET Cores\ConsolePdfPrinter\obj\Debug\ConsolePdfPrinter.csproj.AssemblyReference.cache
